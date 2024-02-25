@@ -19,4 +19,5 @@ This React application allows users to manage a list of users with the following
 4. **Create User Page:**
    - A new user can be added by navigating to the Create User page.
    - This page allows users to input and save details for a new user.
-<p><a href="https://axios-react-mock-api.netlify.app/">Preview</a></p>
+<h1> ScreenShot</h1>![Screenshot (66)](https://github.com/MohamedNihmath18/React-Axios-Task/assets/106542888/fcee01ff-cfd1-4758-9d90-aabb98dd4f97)
+
